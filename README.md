@@ -6,12 +6,12 @@
 
 > Contributing to the Spanish translation of [ElectronJs](https://www.electronjs.org/es/) - ([Crowdin Profile](https://crowdin.com/profile/pintogamer64))
 
-| ![Stats](https://github-readme-stats-rho-jet-89.vercel.app/api?username=mikedev64&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&line_height=20&hide_title=true) | ![Stats](https://github-readme-stats-rho-jet-89.vercel.app/api/wakatime?username=PintoGamer64&theme=radical&hide_border=true&layout=compact&langs_count=6&hide_title=true) |
+| ![Stats](https://github-stats-extended.vercel.app/api?username=mikedev64&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&line_height=20&hide_title=true) | ![Stats](https://github-stats-extended.vercel.app/api/wakatime?username=PintoGamer64&theme=radical&hide_border=true&layout=compact&langs_count=6&hide_title=true) |
 | ----- | ----- |
 
 # > <code>⠀⠀🌟⠀⠀Top Repositories⠀⠀</code>
 
-| ![https://github.com/mikedev64/GameScriptJs](https://github-readme-stats-rho-jet-89.vercel.app/api/pin/?username=mikedev64&show_owner=true&repo=GameScriptJs&theme=radical&hide_border=true) | ![https://github.com/mikedev64/SteamClonAI](https://github-readme-stats-rho-jet-89.vercel.app/api/pin/?username=mikedev64&show_owner=true&repo=SteamClonAI&theme=radical&hide_border=true) |
+| ![https://github.com/mikedev64/GameScriptJs](https://github-stats-extended.vercel.app/api/pin/?username=mikedev64&show_owner=true&repo=GameScriptJs&theme=radical&hide_border=true) | ![https://github.com/mikedev64/SteamClonAI](https://github-stats-extended.vercel.app/api/pin/?username=mikedev64&show_owner=true&repo=SteamClonAI&theme=radical&hide_border=true) |
 | ----- | ----- |
 
 # > <code>⠀⠀💼⠀⠀Activity⠀⠀</code>
